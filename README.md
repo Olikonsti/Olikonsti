@@ -2,7 +2,7 @@
 
 # Olikonsti
 
-Hi, am 16 years old and like to code as a hobby in my free time
+Hi, I am 16 years old and like to code as a hobby in my free time
 
 Languages:
 
