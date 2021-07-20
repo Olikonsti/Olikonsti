@@ -2,7 +2,7 @@
 
 # Konstantin Ehmann
 
-Hi, I am 16 years old and like to code as a hobby in my free time
+Hi, I am from Bavaria, Germany. I am 16 years old and like to code in python and c++ as a hobby in my free time and java in school.
 
 Languages:
 
