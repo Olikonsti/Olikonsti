@@ -7,11 +7,11 @@ Hi, I am from Bavaria, Germany. I am 17 years old and like to code in python and
 Languages:
 
 
-![opengraph-icon-200x200](https://user-images.githubusercontent.com/68354546/116529004-bf425900-a8dc-11eb-95b6-545e332f2588.png)
+![116529004-bf425900-a8dc-11eb-95b6-545e332f2588](https://user-images.githubusercontent.com/68354546/161617530-ab42cb46-9b9c-4057-b3c7-91aeb3ababd6.png)
 8/10
-![46140125-da084900-c26d-11e8-8ea7-c45ae6306309](https://user-images.githubusercontent.com/68354546/116529264-0cbec600-a8dd-11eb-8581-83487f136895.png)
+![116529264-0cbec600-a8dd-11eb-8581-83487f136895](https://user-images.githubusercontent.com/68354546/161617567-6b55a705-278e-438a-8a8f-b912cf05f3d7.png)
 4/10
-![java-43-569305](https://user-images.githubusercontent.com/68354546/116529251-092b3f00-a8dd-11eb-97d8-d5a996adc109.png)
+![116529251-092b3f00-a8dd-11eb-97d8-d5a996adc109](https://user-images.githubusercontent.com/68354546/161617586-64671c83-921f-4578-8928-43986560d752.png)
 4/10
-![68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67](https://user-images.githubusercontent.com/68354546/116529232-03cdf480-a8dd-11eb-808b-59f800189228.png)
+![116529232-03cdf480-a8dd-11eb-808b-59f800189228](https://user-images.githubusercontent.com/68354546/161617601-4eb39dfb-eae1-42b2-8291-e4d903ef2229.png)
 1/10
